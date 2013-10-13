@@ -1,0 +1,9 @@
+[submodule "app/controllers"]
+	path = app/controllers
+	url = git@github.com:veerpartap/cntTestRepo.git
+[submodule "app/models"]
+	path = app/models
+	url = git@github.com:veerpartap/mdlTestRepo.git
+[submodule "app/views"]
+	path = app/views
+	url = git@github.com:veerpartap/vewTestRepo.git
